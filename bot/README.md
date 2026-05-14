@@ -1,4 +1,4 @@
-# BreezeVM Panel Discord Bot
+# StrenoxCloud Panel Discord Bot
 
 A complete Discord bot for managing the BreezeVM Panel via its REST API.
 
